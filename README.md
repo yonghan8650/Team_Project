@@ -10,6 +10,6 @@
   <li>DB : MySQL</li>
   <li>WAS : TOMCAT 9.0</li>
   <li>Front-End : HTML5, CSS, JavaScript</li>
-  <li>Back-end : JDK11, JSP, JSTL, MyBatis</li>
+  <li>Back-End : JDK11, JSP, JSTL, MyBatis</li>
   <li>Git Hub</li>
 </ul>
