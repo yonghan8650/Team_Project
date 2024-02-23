@@ -13,3 +13,15 @@
   <li>Back-End : JDK11, JSP, JSTL, MyBatis</li>
   <li>Git Hub</li>
 </ul>
+<h2>팀 구성</h2>
+김용한(팀장)
+
+황산해
+
+김정진
+
+박부경
+
+김건우
+
+이오섭
